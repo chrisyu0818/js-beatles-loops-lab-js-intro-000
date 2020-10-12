@@ -14,8 +14,8 @@ while (i<facts.length) {
 }return facts
 }
 function iLoveTheBeatles(number) {
-  var i = 1
-  var array =[]
+  let i = 1;
+  var array =[];
 do {
   array.push("I love the Beatles!")
 }
