@@ -14,11 +14,11 @@ while (i<facts.length) {
 }return facts
 }
 function iLoveTheBeatles(number) {
-  let i = 1;
   var array =[];
 do {
   array.push("I love the Beatles!")
+  number++
 }
-while(i++ < 15){
-} return array
+while(number < 15)
+return array
 }
