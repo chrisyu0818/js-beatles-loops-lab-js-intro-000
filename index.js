@@ -13,3 +13,11 @@ while (i<facts.length) {
   i++
 }return facts
 }
+function iLoveTheBeatles(number) {
+  var i = 1
+  var array =[]
+do {
+  array.push("I love the Beatles!")
+}
+while(i++ < 15)
+} return array
